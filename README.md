@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como método de avaliação utilizando o codeceptj
 
 <https://nodejs.org/en/> <br>
 <https://codecept.io/> <br>
-<https://https://swapi.co/> 
+<https://swapi.co/> 
 
 ### Configuração do ambiente
 É necessário instalar o [Node.js](https://nodejs.org/) v8+ para rodar.
